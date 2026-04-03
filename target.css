@@ -1,0 +1,51 @@
+    /* Audience Section */
+    .audience-section {
+        background: radial-gradient(circle at top, #eef1ff, #ffffff 65%);
+    }
+
+    /* Title */
+    .section-title {
+        font-weight: 700;
+        font-size: 2.2rem;
+    }
+
+    .section-subtitle {
+        color: #6c757d;
+        font-size: 1rem;
+    }
+
+    /* Glassmorphism Card */
+    .audience-card {
+        height: 100%;
+        padding: 30px 20px;
+        background: rgba(255, 255, 255, 0.75);
+        backdrop-filter: blur(14px);
+        -webkit-backdrop-filter: blur(14px);
+        border-radius: 16px;
+        box-shadow: 0 15px 35px rgba(0, 0, 0, 0.08);
+        transition: all 0.35s ease;
+        cursor: pointer;
+    }
+
+    /* Hover Effect */
+    .audience-card:hover {
+        transform: translateY(-10px) scale(1.02);
+        box-shadow: 0 25px 45px rgba(0, 0, 0, 0.12);
+    }
+
+    /* Icon Styling */
+    .audience-icon {
+        font-size: 2.8rem;
+        margin-bottom: 15px;
+    }
+
+    /* Text */
+    .audience-card h5 {
+        font-weight: 600;
+        margin-bottom: 8px;
+    }
+
+    .audience-card p {
+        font-size: 0.95rem;
+        color: #6c757d;
+    }

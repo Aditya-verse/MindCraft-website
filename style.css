@@ -1,0 +1,29 @@
+        .hero {
+            background-color: #f7faff;
+            padding: 100px 0;
+        }
+
+        .hero h1 {
+            font-weight: 700;
+        }
+
+        .hero p {
+            color: #6c757d;
+            font-size: 1.1rem;
+        }
+
+        .btn-primary {
+            border-radius: 50px;
+            padding: 10px 30px;
+        }
+
+        .btn-outline-primary {
+            border-radius: 50px;
+            padding: 10px 30px;
+        }
+
+        .hero-img img {
+            max-width: 100%;
+        }
+
+    
