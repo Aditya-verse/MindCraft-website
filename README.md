@@ -6,7 +6,7 @@
 
 ### 🚀 Live Website
 
-🌐 **[https://mindcraft-mega.netlify.app](https://mindcraft-mega.netlify.app)**
+🌐 **[https://mindcraft-mega.netlify.app](https://mindcraft-web.netlify.app/)**
 
 [![Netlify Status](https://img.shields.io/badge/Netlify-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://mindcraft-mega.netlify.app)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fmindcraft-mega.netlify.app&style=for-the-badge&label=Status&up_message=Online&down_message=Offline)](https://mindcraft-mega.netlify.app)
